@@ -23,11 +23,12 @@ aside {
 }
 
 footer {
-
+	clear:both;
 }
 
 header {
-
+	margin-left: 5%;
+	margin-top: 0%;
 }
 
 img {
