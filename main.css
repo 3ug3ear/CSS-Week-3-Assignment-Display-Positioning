@@ -47,6 +47,13 @@ nav {
 
 #copyright {
 	font-size: 80%;
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-left: 4px;
 
 }
 
