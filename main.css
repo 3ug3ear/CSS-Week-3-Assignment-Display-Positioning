@@ -41,7 +41,8 @@ main {
 }
 
 nav {
-
+	width: 200px;
+	float: left;
 }
 
 #copyright {
